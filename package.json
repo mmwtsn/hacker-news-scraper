@@ -1,0 +1,22 @@
+{
+  "name": "hacker-news-scraper",
+  "version": "0.0.0",
+  "description": "A simple Hacker News scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmwtsn/hacker-news-scraper.git"
+  },
+  "issues": {
+    "url": "https://github.com/mmwtsn/hacker-news-scraper/issues"
+  },
+  "author": "M. Maxwell Watson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mmwtsn/hacker-news-scraper/issues"
+  },
+  "homepage": "https://github.com/mmwtsn/hacker-news-scraper#readme"
+}
